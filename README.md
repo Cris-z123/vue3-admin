@@ -1,5 +1,7 @@
 # backstage
 
+基于Vue3.0+TS+AntD的后台管理系统。
+
 ## Project setup
 ```
 npm install
